@@ -8,3 +8,4 @@
 - 2025-01-04 #6: feat(auth): implement JWT security helpers
 - 2025-01-05 #7: feat(auth): add register and login API routes
 - 2025-01-05 #8: feat(profile): add profile CRUD endpoints
+- 2025-01-05 #9: feat(jobs): add job listing and filter APIs
