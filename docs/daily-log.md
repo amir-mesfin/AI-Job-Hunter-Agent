@@ -6,3 +6,4 @@
 - 2025-01-04 #4: feat(backend): define SQLAlchemy models and database setup
 - 2025-01-04 #5: feat(backend): add Pydantic schemas for auth and profile
 - 2025-01-04 #6: feat(auth): implement JWT security helpers
+- 2025-01-05 #7: feat(auth): add register and login API routes
