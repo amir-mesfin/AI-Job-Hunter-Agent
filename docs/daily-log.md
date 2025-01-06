@@ -11,3 +11,4 @@
 - 2025-01-05 #9: feat(jobs): add job listing and filter APIs
 - 2025-01-06 #10: feat(history): track viewed, saved, and applied actions
 - 2025-01-06 #11: feat(backend): wire routers into FastAPI main app
+- 2025-01-06 #12: test: add API smoke tests for auth and jobs
