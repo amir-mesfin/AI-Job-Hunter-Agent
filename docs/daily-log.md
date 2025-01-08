@@ -15,3 +15,4 @@
 - 2025-01-07 #13: feat(frontend): bootstrap Next.js app and tooling
 - 2025-01-08 #14: feat(frontend): add global styles and root layout
 - 2025-01-08 #15: feat(frontend): add landing page shell
+- 2025-01-08 #16: feat(frontend): add API client helpers
