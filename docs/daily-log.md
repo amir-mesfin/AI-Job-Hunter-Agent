@@ -13,3 +13,4 @@
 - 2025-01-06 #11: feat(backend): wire routers into FastAPI main app
 - 2025-01-06 #12: test: add API smoke tests for auth and jobs
 - 2025-01-07 #13: feat(frontend): bootstrap Next.js app and tooling
+- 2025-01-08 #14: feat(frontend): add global styles and root layout
