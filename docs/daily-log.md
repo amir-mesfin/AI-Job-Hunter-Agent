@@ -16,3 +16,4 @@
 - 2025-01-08 #14: feat(frontend): add global styles and root layout
 - 2025-01-08 #15: feat(frontend): add landing page shell
 - 2025-01-08 #16: feat(frontend): add API client helpers
+- 2025-01-09 #17: feat(frontend): add auth context and theme context
