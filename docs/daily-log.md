@@ -17,3 +17,4 @@
 - 2025-01-08 #15: feat(frontend): add landing page shell
 - 2025-01-08 #16: feat(frontend): add API client helpers
 - 2025-01-09 #17: feat(frontend): add auth context and theme context
+- 2025-01-10 #18: feat(frontend): add theme toggle and shared icons
