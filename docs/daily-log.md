@@ -20,3 +20,4 @@
 - 2025-01-10 #18: feat(frontend): add theme toggle and shared icons
 - 2025-01-11 #19: feat(frontend): add app navigation
 - 2025-01-11 #20: feat(auth): build login and register pages
+- 2025-01-11 #21: feat(auth): add forgot and reset password flows
