@@ -23,3 +23,4 @@
 - 2025-01-11 #21: feat(auth): add forgot and reset password flows
 - 2025-01-12 #22: feat(dashboard): add overview stats and activity feed
 - 2025-01-12 #23: feat(jobs): add job board, filters, and detail drawer
+- 2025-01-12 #24: feat(profile): add CV upload and professional details form
