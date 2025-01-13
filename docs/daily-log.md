@@ -24,3 +24,4 @@
 - 2025-01-12 #22: feat(dashboard): add overview stats and activity feed
 - 2025-01-12 #23: feat(jobs): add job board, filters, and detail drawer
 - 2025-01-12 #24: feat(profile): add CV upload and professional details form
+- 2025-01-13 #25: feat(saved): add saved jobs and bookmarks pages
