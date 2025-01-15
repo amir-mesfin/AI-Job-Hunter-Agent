@@ -200,3 +200,4 @@ One progress entry per day from 2026-01-11 through 2026-07-23.
 - 2025-01-14 #28: feat(collectors): add collectors management UI
 - 2025-01-15 #29: feat(ai): add skill extract and match scoring
 - 2025-01-15 #30: feat(ai): add AI Match page with cover letter tools
+- 2025-01-15 #31: chore: add public assets and finalize Phase 1-3 UI polish
