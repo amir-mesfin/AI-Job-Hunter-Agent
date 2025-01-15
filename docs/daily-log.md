@@ -198,3 +198,4 @@ One progress entry per day from 2026-01-11 through 2026-07-23.
 - 2026-07-23: chore: record Phase milestones in the daily log
 - 2026-07-23: finalize Phases 1–3 and dark/light background toggle
 - 2025-01-14 #28: feat(collectors): add collectors management UI
+- 2025-01-15 #29: feat(ai): add skill extract and match scoring

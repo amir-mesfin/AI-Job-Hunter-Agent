@@ -85,3 +85,5 @@ backend/app/
 frontend/app/
   dashboard/ jobs/ profile/ ai/ collectors/ auth/
 ```
+
+<!-- progress 2025-01-15 -->
