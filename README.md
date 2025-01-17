@@ -87,3 +87,5 @@ frontend/app/
 ```
 
 <!-- progress 2025-01-15 -->
+
+<!-- progress 2025-01-17 -->
