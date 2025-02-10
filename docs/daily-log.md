@@ -264,3 +264,4 @@ One progress entry per day from 2026-01-11 through 2026-07-23.
 - 2025-02-09 #92: docs: capture implementation checklist updates
 - 2025-02-09 #93: chore: small README clarity pass
 - 2025-02-09 #94: docs: update status for evaluation pipeline work
+- 2025-02-10 #95: docs: log daily progress on AI Job Hunter
