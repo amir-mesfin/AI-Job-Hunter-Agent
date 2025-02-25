@@ -298,3 +298,4 @@ One progress entry per day from 2026-01-11 through 2026-07-23.
 - 2025-02-23 #126: chore: record Phase milestones in the daily log
 - 2025-02-24 #127: docs: capture implementation checklist updates
 - 2025-02-25 #128: chore: small README clarity pass
+- 2025-02-25 #129: docs: update status for evaluation pipeline work
