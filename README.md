@@ -85,33 +85,3 @@ backend/app/
 frontend/app/
   dashboard/ jobs/ profile/ ai/ collectors/ auth/
 ```
-
-<!-- progress 2025-01-15 -->
-
-<!-- progress 2025-01-17 -->
-
-<!-- progress 2025-01-19 -->
-
-<!-- progress 2025-01-22 -->
-
-<!-- progress 2025-01-25 -->
-
-<!-- progress 2025-01-27 -->
-
-<!-- progress 2025-01-31 -->
-
-<!-- progress 2025-02-03 -->
-
-<!-- progress 2025-02-06 -->
-
-<!-- progress 2025-02-09 -->
-
-<!-- progress 2025-02-12 -->
-
-<!-- progress 2025-02-15 -->
-
-<!-- progress 2025-02-18 -->
-
-<!-- progress 2025-02-21 -->
-
-<!-- progress 2025-02-24 -->
